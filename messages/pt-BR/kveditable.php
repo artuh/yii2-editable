@@ -19,7 +19,7 @@
 return [
     '(not set)' => '(não definido)',
     'Apply' => 'Aplicar',
-    'Close' => '',
+    'Close' => 'Fechar',
     'Edit' => 'Editar',
     'Reset' => 'Resetar',
 ];
